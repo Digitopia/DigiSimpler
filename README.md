@@ -8,11 +8,6 @@ Digitopia's software
 >>>>>>> ef085e8dc390246c4bb8ddb811b0c24077a779c5
 © Digitópia - Casa da Música
 
-Digisimpler is free software: you can redistribute it and/or modify
-    it under the terms of the GNU General Public License as published by
-    the Free Software Foundation, either version 3 of the License, or
-    (at your option) any later version.
-
 <<<<<<< HEAD
 
 DigiSimpler is free software: you can redistribute it and/or modify
