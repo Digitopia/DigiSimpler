@@ -1,16 +1,27 @@
 DigiSimpler
 ===========
 
+<<<<<<< HEAD
+=======
+Digitopia's software
+
+>>>>>>> ef085e8dc390246c4bb8ddb811b0c24077a779c5
 © Digitópia - Casa da Música
 
-____
+Digisimpler is free software: you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by
+    the Free Software Foundation, either version 3 of the License, or
+    (at your option) any later version.
 
+<<<<<<< HEAD
 
 DigiSimpler is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
     (at your option) any later version.
 
+=======
+>>>>>>> ef085e8dc390246c4bb8ddb811b0c24077a779c5
     This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
