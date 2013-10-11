@@ -1,0 +1,6 @@
+about pitch~: 
+Paul Hill has ported the FFT-based analysis externals for Windows using FFTw. 
+You first need to install the fftw3.dll into your Max/MSP folder.
+
+
+Currently, DigiSimpler is supported in 32 and 64-bit Windows versions, although the automatic pitch detection will only work on 32-bit operative systems. 
