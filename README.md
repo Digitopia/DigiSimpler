@@ -10,6 +10,8 @@ Digitopia's software
 
 <<<<<<< HEAD
 
+DigiSampler is a simple and intuitive virtual sampler that allows you to quickly grab a sound file and start playing. It is a modified version of "Simpler", from Rui Penha (http://ruipenha.pt/software/simpler/)
+
 DigiSimpler is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
